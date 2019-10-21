@@ -1,7 +1,7 @@
 class Dog
+  snoopy =""
+  lassie =""
+  fido =""
 
 
 end
-snoopy = Dog.new
-lassie = Dog.new
-fido = Dog.new
