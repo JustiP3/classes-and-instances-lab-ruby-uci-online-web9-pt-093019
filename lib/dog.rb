@@ -1,5 +1,5 @@
 class Dog {
-fido = ""
-snoopy =""
+fido = "",
+snoopy ="",
 lassie = ""
 }
