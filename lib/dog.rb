@@ -1,5 +1,5 @@
-class Dog do
+class Dog {
 fido = ""
 snoopy =""
 lassie = ""
-end
+}
