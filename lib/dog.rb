@@ -1,7 +1,7 @@
 class Dog
-  snoopy =""
-  lassie =""
-  fido =""
+  snoopy =Dog.new 
+  lassie =Dog.new
+  fido = Dog.new
 
 
 end
